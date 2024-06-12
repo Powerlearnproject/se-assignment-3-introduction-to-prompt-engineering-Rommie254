@@ -1,3 +1,5 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/UpfcA4qp)
+[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-718a45dd9cf7e7f842a935f5ebbe5719a5e09af4491e668f4dbf3b35d5cca122.svg)](https://classroom.github.com/online_ide?assignment_repo_id=15263130&assignment_repo_type=AssignmentRepo)
 # SE-Assignment-3
 Assignment: Introduction to Prompt Engineering
 Instructions:
@@ -7,9 +9,22 @@ Questions:
 Definition of Prompt Engineering:
 
 What is prompt engineering, and why is it important in the context of AI and natural language processing (NLP)?
+
+```
+Prompt engineering refers to the process of designing and refining input prompts to optimize the performance of AI models, particularly in natural language processing (NLP). It usually involves crafting the phrasing and structure of prompts to guide the model in generating the desired output.
+```
+
 Components of a Prompt:
 
 What are the essential components of a well-crafted prompt for an AI model? Provide an example of a basic prompt and explain its elements.
+
+```
+Essential components of a well-crafted prompt include: 
+- Context Setting: define the context or domain of the task.
+- Instruction: Provide specific instructions 
+
+```
+
 Types of Prompts:
 
 Describe different types of prompts (e.g., open-ended prompts, instructional prompts). How does the type of prompt influence the AI model's response?
